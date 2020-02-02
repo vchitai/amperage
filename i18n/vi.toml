@@ -1,0 +1,42 @@
+[home]
+other = "Trang chủ"
+[notFound]
+other = "Không tìm thấy trang này"
+[search]
+other = "Tìm kiếm"
+[goBackHome]
+other = "Về trang chủ"
+[by]
+other = "by"
+[tags]
+other = "Tags"
+[share]
+other = "Share"
+[shareFacebook]
+other = "Share on Facebook"
+[shareTwitter]
+other = "Share on Twitter"
+[shareLinkedin]
+other = "Share on Linkedin"
+[sharePinterest]
+other = "Share on Pinterest"
+[toc]
+other = "Mục lục"
+[related]
+other = "Bài viết lan quyên 📖"
+[comments]
+other = "Để lại bình luận!  💬"
+[months]
+other = "months"
+[published]
+other = "{{.Day}} {{.Month}} {{.Year}}"
+[next]
+other = "Tới"
+[previous]
+other = "Lui"
+[noAd]
+other = "Không có quảng cáo đâu!"
+[keepReading]
+other = "Đọc tiếp..."
+[authorCta]
+other = "Share và comment nếu thích!"
